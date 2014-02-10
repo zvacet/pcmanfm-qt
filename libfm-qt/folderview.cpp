@@ -345,6 +345,7 @@ void FolderView::setViewMode(ViewMode _mode) {
     view->setSizePolicy(QSizePolicy::Expanding, QSizePolicy::Expanding);
     view->setIconSize(iconSize);
 
+    view->setEditTriggers(QAbstractItemView::SelectedClicked|QAbstractItemView::EditKeyPressed);
     view->setSelectionMode(QAbstractItemView::ExtendedSelection);
     layout()->addWidget(view);
 

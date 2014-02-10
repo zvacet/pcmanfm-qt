@@ -192,7 +192,7 @@ QVariant FolderModel::data(const QModelIndex & index, int role = Qt::DisplayRole
   switch(role) {
     case Qt::ToolTipRole:
       return QVariant(item->displayName);
-    case Qt::DisplayRole:  {
+    case Qt::DisplayRole: {
       switch(index.column()) {
         case ColumnFileName: {
           return QVariant(item->displayName);
@@ -219,6 +219,14 @@ QVariant FolderModel::data(const QModelIndex & index, int role = Qt::DisplayRole
           break;
         }
       }
+      break;
+    }
+    case Qt::EditRole:  {
+      if(index.column() == ColumnFileName) {
+        // FIXME: should we return real filenames for desktop entry files?
+        return QVariant(item->displayName);
+      }
+      break;
     }
     case Qt::DecorationRole: {
       if(index.column() == 0) {
@@ -277,7 +285,7 @@ Qt::ItemFlags FolderModel::flags(const QModelIndex& index) const {
   if(index.isValid()) {
     flags = Qt::ItemIsEnabled|Qt::ItemIsSelectable;
     if(index.column() == ColumnFileName)
-      flags |= (Qt::ItemIsDragEnabled|Qt::ItemIsDropEnabled);
+      flags |= (Qt::ItemIsDragEnabled|Qt::ItemIsDropEnabled|Qt::ItemIsEditable);
   }
   else {
     flags = Qt::ItemIsDropEnabled;
