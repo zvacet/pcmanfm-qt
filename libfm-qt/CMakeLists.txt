@@ -56,6 +56,7 @@ set(libfm_SRCS
   appchoosercombobox.cpp
   appmenuview.cpp
   appchooserdialog.cpp
+  ginputstreamdevice.cpp
 )
 
 set(libfm_UIS
