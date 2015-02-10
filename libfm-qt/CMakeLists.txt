@@ -61,6 +61,7 @@ set(libfm_SRCS
     appchoosercombobox.cpp
     appmenuview.cpp
     appchooserdialog.cpp
+    fm-search.c # might be moved to libfm later
 )
 
 set(libfm_UIS
