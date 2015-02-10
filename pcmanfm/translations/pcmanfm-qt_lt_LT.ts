@@ -508,6 +508,10 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <source>Main Toolbar</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;Find Files</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PCManFM::Application</name>

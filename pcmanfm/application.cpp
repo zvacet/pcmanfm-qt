@@ -40,6 +40,7 @@
 #include "mountoperation.h"
 #include "autorundialog.h"
 #include "launcher.h"
+#include "filesearchdialog.h"
 
 #include <QScreen>
 #include <QWindow>
@@ -365,9 +366,18 @@ void Application::desktopPrefrences(QString page) {
   desktopPreferencesDialog_.data()->activateWindow();
 }
 
+void Application::onFindFileAccepted() {
+  Fm::FileSearchDialog* dlg = static_cast<Fm::FileSearchDialog*>(sender());
+  Fm::Path uri = dlg->searchUri();
+  qDebug() << uri.toString();
+}
+
 void Application::findFiles(QStringList paths) {
-  // TODO: add a file searching utility here.
-  qDebug("findFiles");
+  // launch file searching utility.
+  Fm::FileSearchDialog* dlg = new Fm::FileSearchDialog(paths);
+  connect(dlg, &QDialog::accepted, this, &Application::onFindFileAccepted);
+  dlg->setAttribute(Qt::WA_DeleteOnClose);
+  dlg->show();
 }
 
 void Application::launchFiles(QStringList paths, bool inNewWindow) {

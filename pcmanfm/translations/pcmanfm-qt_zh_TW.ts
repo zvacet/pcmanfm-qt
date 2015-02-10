@@ -193,167 +193,172 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="499"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="503"/>
         <source>File Manager</source>
         <translation>檔案管理程式</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="502"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="506"/>
         <source>Go Up</source>
         <translation>往上一層</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="504"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="508"/>
         <source>Alt+Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="505"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="509"/>
         <source>Home</source>
         <translation>家目錄</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="506"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="510"/>
         <source>Alt+Home</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="525"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="529"/>
         <source>Reload</source>
         <translation>重新讀取</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="508"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="512"/>
         <source>F5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="500"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="504"/>
         <source>Go &amp;Up</source>
         <translation>上一層(&amp;U)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="507"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="511"/>
         <source>&amp;Reload</source>
         <translation>重新讀取(&amp;)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="509"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="513"/>
         <source>Go</source>
         <translation>到</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="510"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="514"/>
         <source>Quit</source>
         <translation>離開</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="511"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="515"/>
         <source>&amp;About</source>
         <translation>關於(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="512"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="516"/>
         <source>&amp;New Window</source>
         <translation>新視窗(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="514"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="518"/>
         <source>New Window</source>
         <translation>新視窗</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="516"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="520"/>
         <source>Ctrl+N</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="517"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="521"/>
         <source>Show &amp;Hidden</source>
         <translation>顯示隱藏檔(&amp;H)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="518"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="522"/>
         <source>Ctrl+H</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="519"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="523"/>
         <source>&amp;Computer</source>
         <translation>電腦(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="520"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="524"/>
         <source>&amp;Trash</source>
         <translation>垃圾桶(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="521"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="525"/>
         <source>&amp;Network</source>
         <translation>網路(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="522"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="526"/>
         <source>&amp;Desktop</source>
         <translation>桌面(&amp;D)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="523"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="527"/>
         <source>&amp;Add to Bookmarks</source>
         <translation>加入到書籤(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="524"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="528"/>
         <source>&amp;Applications</source>
         <translation>應用程式(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="526"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="530"/>
         <source>&amp;Icon View</source>
         <translation>圖示檢視(&amp;I)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="527"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="531"/>
         <source>&amp;Compact View</source>
         <translation type="unfinished">簡易檢視(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="528"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="532"/>
         <source>&amp;Detailed List</source>
         <translation>詳細清單(&amp;D)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="529"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="533"/>
         <source>&amp;Thumbnail View</source>
         <translation>縮圖檢視(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="530"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="534"/>
         <source>Cu&amp;t</source>
         <translation>剪下(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="566"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="570"/>
         <source>C&amp;lose Tab</source>
         <translation>關閉(&amp;L)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="568"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="572"/>
         <source>File &amp;Properties</source>
         <translation>檔案屬性(&amp;P)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="570"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="574"/>
         <source>&amp;Folder Properties</source>
         <translation>資料夾屬性(&amp;F)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="582"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="583"/>
+        <source>&amp;Find Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="587"/>
         <source>&amp;Sorting</source>
         <translation>排序(&amp;S)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="587"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="592"/>
         <source>Main Toolbar</source>
         <translation type="unfinished"></translation>
     </message>
@@ -378,52 +383,52 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation type="obsolete">剪下(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="531"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="535"/>
         <source>Ctrl+X</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="532"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="536"/>
         <source>&amp;Copy</source>
         <translation>複製(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="533"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="537"/>
         <source>Ctrl+C</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="534"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="538"/>
         <source>&amp;Paste</source>
         <translation>貼上(&amp;P)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="535"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="539"/>
         <source>Ctrl+V</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="536"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="540"/>
         <source>Select &amp;All</source>
         <translation>全選(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="538"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="542"/>
         <source>Pr&amp;eferences</source>
         <translation>偏好設定(&amp;R)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="561"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="565"/>
         <source>&amp;Invert Selection</source>
         <translation>反向選取(&amp;I)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="562"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="566"/>
         <source>&amp;Delete</source>
         <translation>刪除(&amp;D)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="564"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="568"/>
         <source>&amp;Rename</source>
         <translation>重新命名(&amp;R)</translation>
     </message>
@@ -432,7 +437,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation type="obsolete">全選</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="537"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="541"/>
         <source>Ctrl+A</source>
         <translation></translation>
     </message>
@@ -441,82 +446,82 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation type="obsolete">偏好設定</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="539"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="543"/>
         <source>Ascending</source>
         <translation>升冪排列</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="540"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="544"/>
         <source>Descending</source>
         <translation>降冪排列</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="541"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="545"/>
         <source>By File Name</source>
         <translation>依照檔名</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="542"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="546"/>
         <source>By Modification Time</source>
         <translation>依照修改時間</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="543"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="547"/>
         <source>By File Type</source>
         <translation>依照檔案類型</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="544"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="548"/>
         <source>By Owner</source>
         <translation>依照檔案擁有者</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="545"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="549"/>
         <source>Folder First</source>
         <translation>資料夾優先</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="546"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="550"/>
         <source>New &amp;Tab</source>
         <translation>新分頁(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="548"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="552"/>
         <source>New Tab</source>
         <translation>新分頁</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="550"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="554"/>
         <source>Ctrl+T</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="551"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="555"/>
         <source>Go &amp;Back</source>
         <translation>後退(&amp;B)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="553"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="557"/>
         <source>Go Back</source>
         <translation>後退</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="555"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="559"/>
         <source>Alt+Left</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="556"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="560"/>
         <source>Go &amp;Forward</source>
         <translation>前進(&amp;F)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="558"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="562"/>
         <source>Go Forward</source>
         <translation>前進</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="560"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="564"/>
         <source>Alt+Right</source>
         <translation type="unfinished"></translation>
     </message>
@@ -529,7 +534,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation type="obsolete">刪除</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="563"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="567"/>
         <source>Del</source>
         <translation type="unfinished"></translation>
     </message>
@@ -538,7 +543,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation type="obsolete">重新命名</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="565"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="569"/>
         <source>F2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -547,7 +552,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation type="obsolete">關閉分頁</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="567"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="571"/>
         <source>Ctrl+W</source>
         <translation type="unfinished"></translation>
     </message>
@@ -556,7 +561,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation type="obsolete">檔案屬性</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="569"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="573"/>
         <source>Alt+Return</source>
         <translation type="unfinished"></translation>
     </message>
@@ -565,57 +570,57 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation type="obsolete">資料夾屬性</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="571"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="575"/>
         <source>Case Sensitive</source>
         <translation>區分大小寫</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="572"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="576"/>
         <source>By File Size</source>
         <translation>依照檔案大小</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="573"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="577"/>
         <source>Close Window</source>
         <translation>關閉視窗</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="574"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="578"/>
         <source>Edit Bookmarks</source>
         <translation>編輯書籤</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="575"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="579"/>
         <source>Open &amp;Terminal</source>
         <translation>開啟終端機(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="576"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="580"/>
         <source>F4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="577"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="581"/>
         <source>Open as &amp;Root</source>
         <translation>以系統管理員權限開啟(&amp;R)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="578"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="582"/>
         <source>&amp;Edit Bookmarks</source>
         <translation>編輯書籤(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="579"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="584"/>
         <source>&amp;File</source>
         <translation>檔案(&amp;F)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="580"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="585"/>
         <source>&amp;Help</source>
         <translation>說明(&amp;H)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="581"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="586"/>
         <source>&amp;View</source>
         <translation>檢視(&amp;V)</translation>
     </message>
@@ -624,22 +629,22 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation type="obsolete">排序</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="583"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="588"/>
         <source>&amp;Edit</source>
         <translation>編輯(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="584"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="589"/>
         <source>&amp;Bookmarks</source>
         <translation>書籤(&amp;B)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="585"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="590"/>
         <source>&amp;Go</source>
         <translation>前往(&amp;G)</translation>
     </message>
     <message>
-        <location filename="../../build/pcmanfm/ui_main-win.h" line="586"/>
+        <location filename="../../build/pcmanfm/ui_main-win.h" line="591"/>
         <source>&amp;Tool</source>
         <translation>工具(&amp;T)</translation>
     </message>
@@ -647,99 +652,99 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
 <context>
     <name>PCManFM::Application</name>
     <message>
-        <location filename="../application.cpp" line="122"/>
+        <location filename="../application.cpp" line="123"/>
         <source>Name of configuration profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="122"/>
+        <location filename="../application.cpp" line="123"/>
         <source>PROFILE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="125"/>
+        <location filename="../application.cpp" line="126"/>
         <source>Run PCManFM as a daemon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="128"/>
+        <location filename="../application.cpp" line="129"/>
         <source>Quit PCManFM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="131"/>
+        <location filename="../application.cpp" line="132"/>
         <source>Launch desktop manager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="134"/>
+        <location filename="../application.cpp" line="135"/>
         <source>Turn off desktop manager if it&apos;s running</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="137"/>
+        <location filename="../application.cpp" line="138"/>
         <source>Open desktop preference dialog on the page with the specified name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="137"/>
-        <location filename="../application.cpp" line="153"/>
+        <location filename="../application.cpp" line="138"/>
+        <location filename="../application.cpp" line="154"/>
         <source>NAME</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="140"/>
+        <location filename="../application.cpp" line="141"/>
         <source>Open new window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="143"/>
+        <location filename="../application.cpp" line="144"/>
         <source>Open Find Files utility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="146"/>
+        <location filename="../application.cpp" line="147"/>
         <source>Set desktop wallpaper from image FILE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="146"/>
+        <location filename="../application.cpp" line="147"/>
         <source>FILE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="150"/>
+        <location filename="../application.cpp" line="151"/>
         <source>Set mode of desktop wallpaper. MODE=(color|stretch|fit|center|tile)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="150"/>
+        <location filename="../application.cpp" line="151"/>
         <source>MODE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="153"/>
+        <location filename="../application.cpp" line="154"/>
         <source>Open Preferences dialog on the page with the specified name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="156"/>
+        <location filename="../application.cpp" line="157"/>
         <source>Files or directories to open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="156"/>
+        <location filename="../application.cpp" line="157"/>
         <source>[FILE1, FILE2,...]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="402"/>
-        <location filename="../application.cpp" line="409"/>
+        <location filename="../application.cpp" line="412"/>
+        <location filename="../application.cpp" line="419"/>
         <source>Error</source>
         <translation type="unfinished">錯誤</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="409"/>
+        <location filename="../application.cpp" line="419"/>
         <source>Terminal emulator is not set.</source>
         <translation type="unfinished">終端機模擬器尚未設定</translation>
     </message>
