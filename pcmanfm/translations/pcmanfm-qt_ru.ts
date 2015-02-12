@@ -795,13 +795,13 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="412"/>
-        <location filename="../application.cpp" line="419"/>
+        <location filename="../application.cpp" line="416"/>
+        <location filename="../application.cpp" line="423"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="419"/>
+        <location filename="../application.cpp" line="423"/>
         <source>Terminal emulator is not set.</source>
         <translation>Эмулятор терминала не указан.</translation>
     </message>

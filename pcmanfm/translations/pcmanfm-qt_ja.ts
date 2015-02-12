@@ -750,13 +750,13 @@ GNU 一般公衆利用許諾契約書の複製物を1部
         <translation>開くファイルまたはディレクトリー</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="412"/>
-        <location filename="../application.cpp" line="419"/>
+        <location filename="../application.cpp" line="416"/>
+        <location filename="../application.cpp" line="423"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="419"/>
+        <location filename="../application.cpp" line="423"/>
         <source>Terminal emulator is not set.</source>
         <translation>端末エミュレーターを未設定です</translation>
     </message>

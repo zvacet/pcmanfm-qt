@@ -691,13 +691,13 @@ Sie sollten ein Exemplar der GNU General Public License zusammen mit diesem Prog
         <translation>[DATEI1, DATEI2, ...]</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="412"/>
-        <location filename="../application.cpp" line="419"/>
+        <location filename="../application.cpp" line="416"/>
+        <location filename="../application.cpp" line="423"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="419"/>
+        <location filename="../application.cpp" line="423"/>
         <source>Terminal emulator is not set.</source>
         <translation>Es ist kein Terminalemulator eingestellt.</translation>
     </message>

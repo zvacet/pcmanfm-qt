@@ -741,13 +741,13 @@ Se tal facto não ocorreu, escreva para a Free Software Foundation, Inc.,
         <translation>Ficheiros ou diretórios a abrir</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="412"/>
-        <location filename="../application.cpp" line="419"/>
+        <location filename="../application.cpp" line="416"/>
+        <location filename="../application.cpp" line="423"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="419"/>
+        <location filename="../application.cpp" line="423"/>
         <source>Terminal emulator is not set.</source>
         <translation>O emulador de terminal não está definido.</translation>
     </message>

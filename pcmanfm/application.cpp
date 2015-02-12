@@ -369,7 +369,11 @@ void Application::desktopPrefrences(QString page) {
 void Application::onFindFileAccepted() {
   Fm::FileSearchDialog* dlg = static_cast<Fm::FileSearchDialog*>(sender());
   Fm::Path uri = dlg->searchUri();
-  qDebug() << uri.toString();
+  // FIXME: we should be able to open it in an existing window
+  FmPathList* paths = fm_path_list_new();
+  fm_path_list_push_tail(paths, uri.data());
+  Launcher(NULL).launchPaths(NULL, paths);
+  fm_path_list_unref(paths);
 }
 
 void Application::findFiles(QStringList paths) {
